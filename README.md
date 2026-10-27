@@ -1,4 +1,4 @@
-# Hi, I'm Sivaprasad 👋
+# Hi, I'm Siva 👋
 
 **TYPO3 Developer** – I build TYPO3 extensions and small tools that make day-to-day work on websites easier.
 
