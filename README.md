@@ -17,7 +17,8 @@
 | Project | What it does |
 |---|---|
 | [patchday](https://github.com/sivaprasad1988/patchday) | Chrome extension that transfers the T3Monitor update history into the OpenProject patchday protocol. |
+| [Tenfold](https://github.com/sivaprasad1988/Tenfold) | macOS app: a notch hub for the MacBook – hover over the notch for clipboard history, a file tray with AirDrop, media controls (Spotify / Apple Music), today's calendar and a volume / brightness HUD. |
 
 ## 💻 Tech
 
-TYPO3 · PHP · JavaScript · Python
+TYPO3 · PHP · JavaScript · Python · Swift
