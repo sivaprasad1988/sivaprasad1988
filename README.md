@@ -17,6 +17,7 @@
 | Project | What it does |
 |---|---|
 | [patchday](https://github.com/sivaprasad1988/patchday) | Chrome extension that transfers the T3Monitor update history into the OpenProject patchday protocol. |
+| [Core Commit AI](https://github.com/sivaprasad1988/typo3-commit-ai) | PhpStorm plugin that writes commit messages following the TYPO3 commit message guidelines with a local Ollama model – sends a real diff of the checked files and never truncates silently. Nothing leaves your machine. |
 
 ## 🍎 Mac tools
 
